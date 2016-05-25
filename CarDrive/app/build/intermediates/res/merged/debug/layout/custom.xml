@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/loginboundary"
+    android:layout_height="200dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@color/textColor"
+        android:id="@+id/textView6"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignBottom="@+id/edit_text_email"
+        android:layout_toStartOf="@+id/edit_text_email" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textStyle="bold"
+        android:layout_marginLeft="5dp"
+        android:textSize="18dp"
+        android:textColor="@color/textColor"
+        android:id="@+id/textView8"
+        android:layout_alignBottom="@+id/edit_text_pass"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_text_pass"
+        android:inputType="textPassword"
+        android:layout_below="@+id/edit_text_email"
+        android:layout_alignStart="@+id/edit_text_email" />
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_text_email"
+        android:inputType="text"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/textView8"
+        android:layout_marginStart="29dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/textView8"
+        android:background="@drawable/button_shape"
+        android:textColor="@drawable/button_text_color"
+        android:id="@+id/submit_delete"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/textView6" />
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/menu/actionlongclicked.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/menu/actionlongclicked.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/menu/drawer.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/menu/drawer.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/menu/rec_toolbar.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/menu/rec_toolbar.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/menu/myaccount.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/menu/myaccount.xml"
+    }
+]

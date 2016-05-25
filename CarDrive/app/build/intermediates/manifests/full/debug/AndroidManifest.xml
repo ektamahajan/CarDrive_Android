@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ekta.apfinalproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="com.example.ekta.apfinalproject.MovieApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme3" >
+        <activity android:name="com.example.ekta.apfinalproject.SplaashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ekta.apfinalproject.MainActivity"
+            android:configChanges="orientation|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ekta.apfinalproject.SplashScreen"
+            android:label="SplashScreen" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.LoginActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="LogIn"
+            android:theme="@style/AppTheme2"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.MyAccountActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="MyAccountActivity" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.CreateUser"
+            android:configChanges="orientation|screenSize"
+            android:label="CreateUser"
+            android:theme="@style/AppTheme2"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.UsedCarActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Used Cars"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.UsedCarRecyclerActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Used Cars" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.YoutubeActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Videos" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.NewsActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="News" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDUG-3TJ0quqemTD6L9t_i9xLpgL5xHFmw" />
+
+        <activity
+            android:name="com.example.ekta.apfinalproject.ActivityAboutUs"
+            android:label="About US" />
+        <activity
+            android:name="com.example.ekta.apfinalproject.SettingsActivity"
+            android:label="Settings"
+            android:theme="@style/AppTheme2" />
+
+        <provider
+            android:name="com.example.ekta.apfinalproject.AssetProvider"
+            android:authorities="com.example.ekta.apfinalproject"
+            android:exported="true"
+            android:grantUriPermissions="true" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+    </application>
+
+</manifest>

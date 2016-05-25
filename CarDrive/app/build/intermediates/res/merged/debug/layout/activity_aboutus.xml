@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ActivityAboutUs">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar11"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#F57C00"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textColor="@color/headingcolor"
+        android:layout_marginLeft="100dp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="70dp"
+        android:id = "@+id/aboutUSTitle"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/appbar11"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:id="@+id/recycler_view11"
+        android:clipToPadding="false"
+        android:clipChildren="false"
+        android:layout_marginTop="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

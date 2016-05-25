@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_google.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable-anydpi-v21/ic_google.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_facebook.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable-anydpi-v21/ic_facebook.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_twitter.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable-anydpi-v21/ic_twitter.xml"
+    }
+]

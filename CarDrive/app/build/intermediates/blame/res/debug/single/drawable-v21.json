@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-v21/round_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable-v21/round_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable-v21/carsearch1.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable-v21/carsearch1.png"
+    }
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="340dp">
+
+    <LinearLayout
+        android:background="@drawable/smallscreenbackground"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageview_detail"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:scaleType="centerCrop" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textnameabout"
+            android:textColor="@color/textColor"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="Paras Dhawan" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColor"
+            android:text="+1 (315) 378-9211"
+            android:textSize="15dp"
+            android:id="@+id/textnumeberabout"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColor"
+            android:text="pdhawan@syr.edu"
+            android:id="@+id/textemailabout"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

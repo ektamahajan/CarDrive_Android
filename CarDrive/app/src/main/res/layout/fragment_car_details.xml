@@ -1,0 +1,183 @@
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical" >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+        android:background="@drawable/screenbackground"
+    android:layout_height="match_parent"
+    tools:context="com.example.paras.apfinalproject.CarDetailsFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:text="Sell your Car"
+        android:paddingBottom="40dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/selectcar"
+        android:textColor="@color/headingcolor"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        android:id="@+id/content"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="1dp"
+        android:layout_below="@+id/selectcar"
+        android:background="@drawable/cardetail"
+        tools:context="com.example.paras.apfinalproject.CarDetailsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Brand:"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/textColor"
+        android:textStyle="bold"
+        android:id="@+id/textView"
+        android:layout_alignTop="@+id/editBrand"
+        android:layout_alignParentStart="true" />
+
+    <Spinner
+        android:id="@+id/editBrand"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:textColor="#616161"
+        android:background="@drawable/smallscreenbackground"
+        android:entries="@array/brand_arrays"
+        android:prompt="@string/brand_prompt"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Model:"
+        android:textSize="20dp"
+        android:textColor="@color/textColor"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView1"
+        android:layout_below="@+id/editBrand"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editModel"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter your model year"
+        android:inputType="number"
+        android:padding="14dp"
+        android:textColor="#616161"
+        android:textColorHint="#AEAEAE"
+        android:textSize="20dp"
+        android:layout_below="@+id/editBrand"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Miles:"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/editMiles"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editMiles"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter miles driven"
+        android:inputType="number"
+        android:padding="14dp"
+        android:textColor="#616161"
+        android:textColorHint="#AEAEAE"
+        android:textSize="20dp"
+        android:layout_below="@+id/editModel"
+        android:layout_alignStart="@+id/editModel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Color:"
+        android:textSize="20dp"
+        android:textColor="@color/textColor"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/editMiles"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editColor"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Car Color"
+        android:inputType="text"
+        android:padding="14dp"
+        android:textColor="#616161"
+        android:textColorHint="#AEAEAE"
+        android:textSize="20dp"
+        android:layout_below="@+id/editMiles"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Price:"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/editColor"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editPrice"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter expected price"
+        android:inputType="number"
+        android:padding="14dp"
+        android:textColor="#616161"
+        android:textColorHint="#AEAEAE"
+        android:textSize="20dp"
+        android:layout_below="@+id/editColor"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textSize="15dp"
+        android:textColor="@drawable/button_text_color"
+        android:background="@drawable/button_shape"
+        android:id="@+id/continueButton1"
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/content"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
+
+    </ScrollView>

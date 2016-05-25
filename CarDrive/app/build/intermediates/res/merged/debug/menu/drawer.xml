@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeItem1"
+            android:checked="false"
+            android:icon="@drawable/home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/myAccountItem2"
+            android:checked="false"
+            android:icon="@drawable/myaccount"
+            android:title="MyAccount"/>
+        <item
+            android:id="@+id/usedCarItem3"
+            android:checked="false"
+            android:icon="@drawable/usedcaritem"
+            android:title="Used Cars"/>
+
+        <item
+            android:id="@+id/sellCarItem3"
+            android:checked="false"
+            android:icon="@drawable/sellcaritem"
+            android:title="Sell a Car"/>
+        <item
+            android:id="@+id/newsItem3"
+            android:checked="false"
+            android:icon="@drawable/news"
+            android:title="News"/>
+        <item
+            android:id="@+id/videosItem3"
+            android:checked="false"
+            android:icon="@drawable/videos"
+            android:title="Videos"/>
+
+        <item
+            android:id="@+id/settingsItem3"
+            android:checked="false"
+            android:icon="@drawable/settings"
+            android:title="Settings"/>
+        <item
+            android:id="@+id/feedbackItem3"
+            android:checked="false"
+            android:icon="@drawable/feedback"
+            android:title="Feedback"/>
+        <item
+            android:id="@+id/aboutUsItem3"
+            android:checked="false"
+            android:icon="@drawable/aboutus"
+            android:title="About Us"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,285 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/screenbackground"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.paras.apfinalproject.CarDetailFragment">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Car Detail"
+            android:textColor="@color/headingcolor"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:id = "@+id/cardetail"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cardetail"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:text="Name"
+        android:textColor="@color/textColor"
+        android:id = "@+id/carNameDetail"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_gravity="left"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="100 miles"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/textColor"
+            android:layout_below="@+id/cardetail"
+            android:id = "@+id/carNameTitleMiles"
+            android:textSize="20dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_marginTop="25dp"
+        android:layout_height="250dp"
+        android:id="@+id/carImage"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Price"
+        android:textStyle="bold|italic"
+        android:paddingTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/carPriceTitle"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:text="Contact Seller"
+        android:textColor="@drawable/button_text_color"
+        android:background="@drawable/button_shape"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textAlignment="center"
+        android:id="@+id/sellerContact"/>
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textSize="15dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@drawable/button_text_color"
+        android:background="@drawable/button_shape"
+        android:gravity="center"
+        android:text="Seller Address"
+        android:id="@+id/sellerAddress" />
+
+    <!-- TODO: Update blank fragment layout -->
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Brand:"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/textColor"
+                android:textStyle="bold|italic"
+                android:textSize="15dp"/>
+            <TextView
+                android:id="@+id/carBrand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Maruti"
+                android:layout_marginRight="10dp"
+                android:textColor="#000000"
+                android:textSize="15dp"
+                android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Model:"
+                    android:layout_marginLeft="10dp"
+                    android:textStyle="bold|italic"
+                    android:textColor="@color/textColor"
+                    android:textSize="15dp"/>
+
+                <TextView
+                    android:id="@+id/modelYear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2009"
+                    android:layout_marginRight="10dp"
+                    android:textColor="#000000"
+                    android:textSize="15dp"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Color:"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/textColor"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:id="@+id/carColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Red"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Miles Driven:"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/textColor"
+            android:textSize="15dp"/>
+        <TextView
+            android:id="@+id/carMileage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price:"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/textColor"
+            android:textSize="15dp"/>
+        <TextView
+            android:id="@+id/carPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="$20000"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact Number:"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/textColor"
+            android:textSize="15dp"/>
+        <TextView
+            android:id="@+id/carContact"
+            android:text="3153789211"
+            android:textSize="15dp"
+            android:layout_marginRight="10dp"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address:"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/textColor"
+            android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/carAddress"
+            android:text="address"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

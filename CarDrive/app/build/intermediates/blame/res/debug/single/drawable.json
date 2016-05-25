@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/screenbackground.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/screenbackground.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/smallscreenbackground.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/smallscreenbackground.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/splash3.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/splash3.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/mahindra.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/mahindra.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/mercedes.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/mercedes.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/grey.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/grey.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/chevrolet.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/chevrolet.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/newsblack.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/newsblack.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/splash2.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/splash2.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/splashmain.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/splashmain.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/tata.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/tata.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_action_dark_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/res/drawable/button_action_dark_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/news.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/news.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/cardetail.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/cardetail.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/bmw.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/bmw.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_action_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/res/drawable/button_action_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/feedback.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/feedback.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/jaguar.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/jaguar.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/or_line.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable/or_line.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/ford.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/ford.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_sub_action_dark_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/res/drawable/button_sub_action_dark_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/sellcaritem.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/sellcaritem.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/aboutus.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/aboutus.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_shape_normal.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/button_shape_normal.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/ic_discuss.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/ic_discuss.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/noimage.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/noimage.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/renault.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/renault.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_text_color.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/button_text_color.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/honda.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/honda.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_sub_action_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/res/drawable/button_sub_action_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/myaccount.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/myaccount.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/hyundai.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/hyundai.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/videos.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/videos.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/shadow.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.vincentbrison.openlibraries.android/foldablelayout/0.0.1/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/videoblack.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/videoblack.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/round_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/audi.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/audi.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/nissan.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/nissan.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/homeblack.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/homeblack.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/twitter_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable/twitter_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/usedcaritem.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/usedcaritem.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/acura.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/acura.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/overflow.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/overflow.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/toyota.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/toyota.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/usedcarblack.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/usedcarblack.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/maruti.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/maruti.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/logout.png",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/backgrounddetail.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/backgrounddetail.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_shape_shadowed.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/button_shape_shadowed.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/button_shape_pressed.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/button_shape_pressed.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/splash1.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/splash1.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/volkswagen.jpg",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/volkswagen.jpg"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/password_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable/password_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/loginboundary.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/src/main/res/drawable/loginboundary.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/facebook_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable/facebook_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/google_button.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/res/drawable/google_button.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/newuser/Dropbox/Ekta_area/Syracuse CS/Spring 2016/AP/Final Project/APFinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    }
+]

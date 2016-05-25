@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CarDrive</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="price_prompt">Choose a country</string>
+
+    <string-array name="price_arrays">
+        <item>0 - 5000</item>
+        <item>5000 - 10000</item>
+        <item>10000 - 20000</item>
+        <item>20000 - 50000</item>
+        <item>50000 - 100000</item>
+        <item>100000 and above</item>
+    </string-array>
+
+    <string name="brand_prompt">Choose a brand</string>
+
+    <string-array name="brand_arrays">
+        <item>Maruti</item>
+        <item>Hyundai</item>
+        <item>Honda</item>
+        <item>Audi</item>
+        <item>Mercedes</item>
+        <item>Acura</item>
+        <item>Jaguar</item>
+        <item>Nissan</item>
+        <item>Tata</item>
+        <item>Toyota</item>
+        <item>BMW</item>
+        <item>Chevrolet</item>
+        <item>Renault</item>
+        <item>Volkswagen</item>
+        <item>Ford</item>
+        <item>Mahendra</item>
+    </string-array>
+    <string name="title_activity_splaash">SplaashActivity</string>
+</resources>

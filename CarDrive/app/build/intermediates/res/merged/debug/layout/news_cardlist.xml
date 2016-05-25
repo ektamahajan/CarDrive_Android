@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    xmlns:card_view ="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/news_cardview"
+    card_view:contentPadding="@dimen/activity_horizontal_margin"
+    android:layout_margin="5dp"
+    card_view:cardElevation="3dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:orientation="vertical"
+    tools:context="com.example.newuser.newsapp.MainActivity">
+
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:src="@drawable/noimage"
+            android:id="@+id/imageview"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/texttitle"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="@color/cardViewTextColor"
+            tools:text="Title"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textpublish"
+            android:textStyle="bold"
+            android:textColor="@color/cardViewTextColor"
+            android:textSize="12dp"
+            tools:text="Publish"
+            />
+
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/textcontent"-->
+            <!--tools:text="Content"-->
+            <!--/>-->
+
+
+</LinearLayout>
+
+    </android.support.v7.widget.CardView>

@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/screenbackground"
+    android:id="@+id/selectprice"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/headingcolor"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="100dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Search by Price"/>
+
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/smallscreenbackground"
+        android:layout_marginRight="20dp"
+        android:entries="@array/price_arrays"
+        android:prompt="@string/price_prompt" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@drawable/button_text_color"
+        android:background="@drawable/button_shape"
+        android:textAllCaps="false"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18dp"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+
+</LinearLayout>
